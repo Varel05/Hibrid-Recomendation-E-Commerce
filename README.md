@@ -147,6 +147,6 @@ Project ini menggunakan dataset sintetis untuk tujuan riset dan pembelajaran. Se
 
 <!-- Tambahkan kolaborator project di bawah ini -->
 
-| Nama | Peran | GitHub |
+| Nama | email | GitHub |
 |---|---|---|
-| | | |
+| Varel Deva Dewangga | vareldeva75@gmail.com | Varel05|
